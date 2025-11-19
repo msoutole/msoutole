@@ -3,11 +3,6 @@
 <div align="center">
 
 ![Header](https://img.shields.io/badge/🤖%20Automação%20Inteligente%20%26%20IA-0066FF?style=for-the-badge)
-![Role](https://img.shields.io/badge/Desenvolvedor-IA%20%26%20Automa%C3%A7%C3%A3o-7C3AED?style=for-the-badge)
-![Data](https://img.shields.io/badge/Ci%C3%AAncia%20de%20Dados-P%C3%B3s--Grad.-0EA5E9?style=for-the-badge)
-![Professor](https://img.shields.io/badge/Professor-Computa%C3%A7%C3%A3o-22C55E?style=for-the-badge)
-![Global Projects](https://img.shields.io/badge/Lideran%C3%A7a-Projetos%20Globais-F97316?style=for-the-badge)
-
 ![GitHub followers](https://img.shields.io/github/followers/msoutole?style=for-the-badge&logo=github)
 ![GitHub User's stars](https://img.shields.io/github/stars/msoutole?style=for-the-badge&logo=github)
 
@@ -15,12 +10,6 @@
 
 **Desenvolvedor de Automação Inteligente e IA · Pós-graduação em Ciência de Dados · Professor de Computação**  
 **Experiência global em Inovação e Hiperautomação (n8n, Python, BigQuery, RPA, GPT/RAG)**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/matheussouto)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-knowledge-6366F1?style=for-the-badge&logo=react)](https://msoutole.github.io/knowledge)
-[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail)](mailto:msoutole@hotmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/5534997699398)
-
 </div>
 
 ---
@@ -649,9 +638,13 @@ Estou **aberto a**:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/matheussouto)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-knowledge-6366F1?style=for-the-badge&logo=react)](https://msoutole.github.io/knowledge)
 [![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail)](mailto:msoutole@hotmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/5534997699398)
+<br>
+![Role](https://img.shields.io/badge/Desenvolvedor-IA%20%26%20Automa%C3%A7%C3%A3o-7C3AED?style=for-the-badge)
+![Data](https://img.shields.io/badge/Ci%C3%AAncia%20de%20Dados-P%C3%B3s--Grad.-0EA5E9?style=for-the-badge)
+![Professor](https://img.shields.io/badge/Professor-Computa%C3%A7%C3%A3o-22C55E?style=for-the-badge)
+![Global Projects](https://img.shields.io/badge/Lideran%C3%A7a-Projetos%20Globais-F97316?style=for-the-badge)
 
 </div>
 
@@ -662,5 +655,4 @@ Estou **aberto a**:
 **Feito com ❤️ por [Matheus Souto Leal](https://github.com/msoutole)**  
 
 *Transformando desafios em soluções inteligentes, acessíveis e escaláveis.*
-
 </div>
