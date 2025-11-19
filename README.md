@@ -3,556 +3,313 @@
 <div align="center">
 
 ![Header](https://img.shields.io/badge/🤖%20Automação%20Inteligente%20%26%20IA-0066FF?style=for-the-badge)
+![Role](https://img.shields.io/badge/Desenvolvedor-IA%20%26%20Automa%C3%A7%C3%A3o-7C3AED?style=for-the-badge)
+![Data](https://img.shields.io/badge/Ci%C3%AAncia%20de%20Dados-P%C3%B3s--Grad.-0EA5E9?style=for-the-badge)
+![Professor](https://img.shields.io/badge/Professor-Computa%C3%A7%C3%A3o-22C55E?style=for-the-badge)
+![Global Projects](https://img.shields.io/badge/Lideran%C3%A7a-Projetos%20Globais-F97316?style=for-the-badge)
+
 ![GitHub followers](https://img.shields.io/github/followers/msoutole?style=for-the-badge&logo=github)
 ![GitHub User's stars](https://img.shields.io/github/stars/msoutole?style=for-the-badge&logo=github)
 
-**Especialista em Automação Inteligente, IA e Ciência de Dados**
+**Desenvolvedor de Automação Inteligente e IA · Cientista de Dados · Professor de Computação**  
+**Liderança de Projetos Globais em Inovação e Hiperautomação (n8n, Python, BigQuery)**
 
-*A ponte entre estratégia de negócio e execução técnica*
-
-[LinkedIn](https://linkedin.com/in/matheussouto) • [Portfolio](https://msoutole.github.io/knowledge) • [Email](mailto:msoutole@hotmail.com) • [WhatsApp](https://wa.me/5534997699398)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/matheussouto)
+[![Portfolio](https://img.shields.io/badge/Portf%C3%B3lio-knowledge-6366F1?style=for-the-badge&logo=react)](https://msoutole.github.io/knowledge)
+[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail)](mailto:msoutole@hotmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/5534997699398)
 
 </div>
+
+## 🧭 O que eu faço (em 10 segundos)
+
+- 🚀 **Automação Inteligente & Hiperautomação**  
+  RPA + n8n + Node-RED + IA (GPT/Gemini/RAG) para reduzir tempo operacional, erros e retrabalho.
+
+- 🧠 **IA & Dados aplicados ao negócio**  
+  Python, BigQuery, PostgreSQL e BI para tirar valor real de dados (dashboards, produtos analíticos, decisões melhores).
+
+- 📚 **Educação & Liderança Técnica**  
+  Professor de Computação por formação, atuo como **mentor e multiplicador de conhecimento** em times globais.
+
+---
+
+## 🎯 O que estou buscando agora
+
+- 👔 **Full-time (Pleno/Consultor)** em Automação Inteligente, IA aplicada ou Engenharia de Integrações  
+- 🧠 **Projetos de consultoria/freela** em RPA, Automação de Processos, Gestão de Equipes, n8n, IA (GPT/RAG) e dados  
+- 🚀 **Parcerias em produtos SaaS/devtools** ligados a automação e produtividade
+
+Se você é **recrutador, líder técnico ou founder** e precisa de alguém para  
+**tirar do papel automações inteligentes, plataformas de IA ou integrações complexas**, meu contato está logo acima. 👆
 
 ---
 
 ## 🎯 Quem Sou
 
-Construo **pontes entre desafios de negócio e soluções tecnológicas**, conectando estratégia, execução técnica e impacto mensurável.
+Sou um profissional de tecnologia com **5+ anos de experiência** focado em **Automação Inteligente, IA e Inovação**, atuando na intersecção entre:
 
-> **Multiplicador de Força**: Desenvolvo tecnologia de ponta e capacito equipes, impulsionando transformação digital sustentável.
+- 🤖 **Inteligência Artificial**
+- 📊 **Ciência de Dados**
+- 💻 **Desenvolvimento de Software**
+- 🧑‍🏫 **Educação em Computação**
 
-### 👨‍💼 Três Perspectivas Complementares
+Minha missão:
 
-| 👨‍💻 **Técnico** | 🎯 **Estrategista** | 📚 **Educador** |
-|-----------|----------|---------|
-| Desenvolvedor que constrói **soluções robustas de automação e IA**, com experiência prática em todo o ciclo de vida do software. | Agente da transformação digital que utiliza **Ciência de Dados** para gerar inteligência e vantagem competitiva. | Professor e mentor por vocação, com habilidade de realizar a **transposição didática** de temas complexos. |
+> **Construir pontes entre desafios de negócio e soluções tecnológicas**, com foco em desenvolvimento humano e geração de valor real.
 
----
+Minha jornada é fundamentada na **Licenciatura em Computação (IFTM)**, o que me deu uma visão forte de que tecnologia é **ferramenta de capacitação e alfabetização digital**, tornando o complexo acessível para pessoas, times e organizações.
 
-## 🎓 Formação & Contexto Profissional
+### 🧩 Três Papéis Complementares
 
-### Educação
-- **Licenciatura em Computação** - IFTM (2016-2023)
-- **Especialização em Transformação Digital e IA** - UNINTER (Em andamento)
+| Papel | Descrição |
+|------|-----------|
+| 👨‍💻 **Técnico** | Construtor de soluções robustas de **automação e IA**, com experiência em todo o ciclo de vida do software. |
+| 🎯 **Estrategista** | Uso **Ciência de Dados e IA** (Pós-Graduação em andamento) para gerar **inteligência, vantagem competitiva e decisões baseadas em dados**. |
+| 📚 **Educador** | Professor e mentor por vocação, com alta capacidade de **traduzir temas complexos**, ensinar e inspirar equipes. |
 
-### 📌 Momento Profissional & Expectativas
+Sou reconhecido por:
 
-Encerrei em **jun/2025** um ciclo de quase cinco anos na **NTT DATA**, atuando com **Automação Inteligente** (RPA + IA) para clientes globais. Busco desafios onde eu possa:
-
-✅ **Conectar estratégia e execução** - Aplicando IA e dados para gerar valor de negócio
-✅ **Assumir responsabilidades de ponta a ponta** - Do discovery até deployment e evolução
-✅ **Capacitar equipes** - Transposição didática e levantamento de maturidade técnica
-
-### 🧩 Principais Diferenciais
-
-**Visão 360°**
-Transito entre desenvolvimento técnico, análise de dados e liderança de projetos.
-
-**Ponte entre áreas**
-Traduzo necessidades de negócio em soluções tecnológicas robustas e escaláveis.
-
-**Multiplicador**
-Capacito equipes e elevo a maturidade técnica do time através de mentoria e documentação.
+- 🚀 **Proatividade e iniciativa**
+- 🤝 **Trabalho em equipe e colaboração** (Nível 2 – Fortaleza)
+- ⚡ **Rapidez no aprendizado** de novas ferramentas e domínios
+- 🧠 **Responsabilidade, comprometimento e pensamento de dono**
+- 🔥 **Vontade genuína de crescer e fazer a diferença**
 
 ---
 
-## 🗺️ Mapa do Conhecimento: Correlações Aplicadas
+## 🌍 Visão em 3 Frentes (o que eu busco hoje)
 
-Como conecto **temas + habilidades + impacto** no dia a dia:
+1. **👔 Full-time** – posições **Sênior/Lead** em:
+   - Automação Inteligente (RPA + n8n + Node-RED)
+   - IA aplicada a processos de negócio
+   - Engenharia/Plataformas de Integração
 
-### 🤖 Automação Inteligente
-**Automações que entendem e decidem**
+2. **🧠 Consultoria / Freelance**
+   - Descoberta e priorização de processos para automação
+   - MVPs de **IA + dados + automação** em poucas semanas
+   - Modernização de pipelines/esteiras de automação existentes
 
-| Skills | Impacto Real |
-|--------|------------|
-| RPA (.NET/C#, Selenium) | **-70%** tempo de execução em processos críticos |
-| OCR & extração | **+95%** precisão com validações inteligentes |
-| Regras + IA | Redução de retrabalho e aumento de SLA cumprido |
-| Observabilidade | Monitoramento completo de operações críticas |
+3. **🚀 Produtos Próprios (SaaS & DevTools)**
+   - SaaS de gestão operacional (beleza, finanças pessoais, produtividade)
+   - Ferramentas para devs e times de engenharia (observabilidade, automação, IA)
 
-**Exemplo**: Automação BrasilSeg reduziu 70% no tempo de processo de seguros, com +95% precisão e SLA estável.
-
----
-
-### 🧠 IA & Dados
-**Dados bem orquestrados para decisões inteligentes**
-
-| Skills | Impacto Real |
-|--------|------------|
-| Python (Pandas, Matplotlib) | Análise complexa com velocidade |
-| SQL / BigQuery | **1000+** interações/dia com IA |
-| Modelos GPT, Claude, Gemini | Atendimento automatizado e análise contextualizada |
-| LangChain & CrewAI | RAG centralizado para respostas precisas |
-
-**Exemplo**: Plataforma Blips integra 15+ sistemas processando 1000+ interações/dia com IA Generativa e RAG.
+> Se você é recrutador(a), líder técnico(a) ou fundador(a), podemos conversar tanto para **vaga full-time**, **projeto fechado** ou **co-criação de produto**.
 
 ---
 
-### 🔄 Orquestração & Integração
-**Conectando legados e plataformas modernas**
+## 🎓 Formação Acadêmica
 
-| Skills | Impacto Real |
-|--------|------------|
-| Node-RED | Expert level em fluxos resilientes |
-| n8n | Plataformas low-code inteligentes |
-| APIs REST | 15+ sistemas integrados com rastreabilidade |
-| Webhooks | Fluxos monitoráveis e escaláveis |
+### 🎓 Pós-Graduação – Transformação Digital e Inteligência Artificial  
+**UNINTER Centro Universitário Internacional** · *Abr/2025 – Presente*  
 
-**Exemplo**: Co-liderança técnica padronizou integrações em 15+ sistemas, reduzindo tempo de ciclo e erros manuais.
+- 🎯 Foco em **extrair valor de grandes volumes de dados (Big Data)**  
+- 🧠 Ênfase em:
+  - **Machine Learning**
+  - **Análise & Visualização de Dados** (Python, Pandas, Matplotlib, Seaborn)
+  - **Business Intelligence (BI)**
+  - **Modelagem Preditiva**
 
----
+### 🧑‍🏫 Licenciatura em Computação  
+**Instituto Federal do Triângulo Mineiro (IFTM) – Campus Uberlândia Centro** · *Ago/2016 – Ago/2023*
 
-### 🎓 Liderança & Educação
-**Traduzindo negócio em tecnologia**
-
-| Skills | Impacto Real |
-|--------|------------|
-| Discovery & priorização | Alinhamento rápido e entrega com foco em valor |
-| Documentação clara | Onboarding 50% mais curto |
-| Mentoria | Autonomia do time e evolução técnica |
-| Workshops | Melhoria contínua de processos |
-
-**Exemplo**: Treinamentos e documentação elevaram significativamente a maturidade técnica de equipes inteiras.
+- Fundamentos fortes de **Ciência da Computação** (Algoritmos, IA, Eng. de Software)  
+- Formação pedagógica que moldou a visão de tecnologia como:
+  - 🧩 **Ferramenta de capacitação**
+  - 📚 **Instrumento de alfabetização digital**
 
 ---
 
 ## 💼 Experiência Profissional
 
-### Analista Pleno em Desenvolvimento de Software
-**NTT DATA** | Ago 2020 - Jun 2025 (4 anos e 10 meses)
-
-Equipe de Inovação e Automação para Europa e América Latina
-
-#### Destaques:
-
-✅ **RPA + IA/ML**
-Desenvolvimento de robôs RPA com IA/ML para interpretar dados não estruturados e otimizar processos críticos.
-
-✅ **Orquestração em Escala**
-Co-liderança técnica de orquestração (Node-RED/n8n), padronizando integrações em 15+ sistemas
-
-✅ **Pesquisa & Adoção**
-Pesquisa e adoção de novas tecnologias, modernizando o portfólio de automação
-
-✅ **Educação & Documentação**
-Treinamentos, boas práticas e documentação, reduzindo onboarding do time em 50%
-
-#### Resultados:
-- **-70%** tempo de processo em automações críticas
-- **+95%** precisão em validações inteligentes
-- **15+** sistemas integrados com rastreabilidade
-- **SLAs** mais estáveis e redução de custos operacionais
-
-**Tecnologias**: RPA, IA, Machine Learning, .NET/C#, Node-RED, Python, Selenium, ServiceNow
-
----
-
-### Analista de Suporte Jr
-**Algar TI Consultoria** | Jan 2020 - Ago 2020 (8 meses)
-
-Gestão e triagem de ordens de serviço B2C, tratativa de chamados de internet e fixo.
-
----
-
-### Analista de Demanda
-**NetSupport Brasil** | Ago 2019 - Jan 2020 (6 meses)
-
-Gestor de demandas na área de microinformática, coordenação de equipes técnicas de campo.
-
----
-
-### Assistente de Suporte Operacional
-**Algar Telecom** | Mai 2018 - Jul 2019 (1 ano e 3 meses)
-
-Atendimento completo aos clientes Varejo, vendas e suporte técnico em múltiplas tecnologias.
-
----
-
-## 🏆 Casos de Sucesso em Destaque
-
-### 1️⃣ BrasilSeg - Automação de Seguros
-
-**Desafio**
-Criação manual de CTs/CNS em processos críticos de seguros era lenta e propensa a erros, impactando SLAs.
-
-**Solução**
-Desenvolvimento de robôs RPA integrados com ServiceNow para automatizar a criação de certificados com validações automáticas.
-
-**Resultado**
-✅ -70% tempo de processo
-✅ +95% precisão
-✅ SLA estável
-✅ 90% redução de retrabalho manual
-
-**Stack**: .NET/C#, ServiceNow, RPA, Automação
-
----
-
-### 2️⃣ Ambev - Sistema de Monitoramento
-
-**Desafio**
-Necessidade de visualização centralizada e controle em tempo real de múltiplos sistemas críticos de produção.
-
-**Solução**
-Painel de controle e monitoria robusto em C# com dashboard interativo, alertas configuráveis e logs em tempo real.
-
-**Resultado**
-✅ Monitoramento real-time de sistemas críticos
-✅ Alertas inteligentes e reativo
-✅ -60% tempo de resposta a incidentes
-
-**Stack**: C#, .NET, Desktop App, Monitoring
-
----
-
-### 3️⃣ Bradesco - Gestão de Recursos
-
-**Desafio**
-Falta de visibilidade sobre alocação de recursos e cargas de trabalho em projetos.
-
-**Solução**
-Integração JIRA + Power BI para análise de alocações e capacidade da equipe, com dashboards interativos.
-
-**Resultado**
-✅ Dashboards executivos com inteligência sobre recursos
-✅ Gargalos identificados e otimizados
-✅ Tomada de decisão baseada em dados
-
-**Stack**: Power BI, JIRA, Analytics, Resource Management
-
----
-
-### 4️⃣ TIM - Automação SAP
-
-**Desafio**
-Processos manuais repetitivos em ambiente SAP consumiam tempo valioso.
-
-**Solução**
-Automação de processos SAP utilizando SapGUIAutomation e scripting VB, com interface amigável.
-
-**Resultado**
-✅ -80% tempo operacional
-✅ Eliminação de erros manuais
-✅ Operações otimizadas
-
-**Stack**: SAP, SapGUIAutomation, RPA, VB Script
-
----
-
-### 5️⃣ Blips - Automação Inteligente
-
-**Desafio**
+### 🟨 Consultoria independente como Desenvolvedor Python Pleno - Automação Low code / no code
+#### 🏹 Principais Conquistas & Responsabilidades
+- **Desafio**
 Integração complexa de múltiplos sistemas heterogêneos com escalabilidade em automações inteligentes.
-
-**Solução**
+  - **Solução**
 Ecossistema completo: Bitrix24 + n8n + BigQuery + PostgreSQL + IA Generativa (GPT, Gemini, Claude) com RAG centralizado.
+  - **Resultado**
+    - ✅ Documentação 100% Automatizada de todos fluxos N8N 
+    - ✅ RAG centralizado para respostas contextualizadas
+    - ✅ Workflows atualizados e escaláveis
 
-**Resultado**
-✅ **15+** sistemas integrados
-✅ **1000+** interações/dia com IA
-✅ RAG centralizado para respostas contextualizadas
-✅ Workflows escaláveis
+### 🟦 Analista Pleno em Desenvolvimento de Software · Inovação e Automação  
+**NTT DATA** · *Ago/2020 – Jun/2025 (4 anos e 11 meses)*  
+🌍 Atuação com clientes na **Europa e América Latina**
 
-**Stack**: Bitrix24, n8n, JavaScript, BigQuery, PostgreSQL, GPT/Gemini/Claude, RAG
+Atuei na equipe de **Inovação e Automação**, projetando, desenvolvendo e implementando soluções de alto impacto para transformar operações e acelerar a transformação digital com hyperautomation.
+
+#### 🏹 Principais Conquistas & Responsabilidades
+
+- 🤖 **RPA e AUTOMAÇÕES de Alto Impacto**
+  - Desenvolvimento de robôs para processos críticos de negócio
+  - Resultados consistentes em:
+    - ⏱ **Otimização de performance**
+    - 📉 **Redução significativa de tarefas manuais**
+    - 🎯 **Aumento da precisão e qualidade dos dados**
+
+- 🧭 **Liderança Técnica de Projetos**
+  - Condução do ciclo completo:
+    - Descoberta & levantamento de requisitos (Europa & LATAM)
+    - Desenho de solução, desenvolvimento, testes
+    - Implantação, monitoramento e evolução contínua
+
+- 🤝 **Colaboração e Educação**
+  - Atuação em times globais multidisciplinares
+  - Compartilhamento de conhecimento, boas práticas e documentação viva
+  - Apoio na capacitação de equipe: **onboarding acelerado e mentoria**
+
+- 🚀 **Proatividade Tecnológica**
+  - Pesquisa e proposta de novas tecnologias e frameworks
+  - Modernização do portfólio de automação com:
+    - **Node-Red**
+    - Integração com **Azure DevOps**
+    - **Data Lake, MongoBD**
+    - Arquiteturas mais observáveis e escaláveis
+
+- 🧰 **Stack-chave na NTT DATA**
+  - **JavaScript**, **.NET/C#**, **Python**
+  - **Selenium**, **RPA**, **APIs REST**, **Webhooks**
+
+---
+### 🟩 Trajetória Anterior (Base em Suporte, Processos e Operação)
+
+- **Analista de Suporte Jr · Algar TI Consultoria S.A.** *(Jan/2020 – Ago/2020)*  
+  - Gestão de ordens de serviço  
+  - Tratativa de chamados em tecnologia **VOBB (voz e dados)**
+
+- **Analista de Demanda · NetSupport Brasil** *(Ago/2019 – Jan/2020)*  
+  - Gestão de demandas e recursos técnicos de campo  
+  - Acompanhamento da cadeia inteira de atendimento
+
+- **Atendimento & Suporte Técnico · Algar & Callink** *(Set/2011 – Jul/2019)*  
+  - De Jovem Aprendiz a Assistente de Suporte Operacional e backup de Líder Técnico  
+  - Construção de base sólida em:
+    - 🧩 Entendimento de processos
+    - 🎧 Suporte ao cliente
+    - 🛠 Resolução de problemas na prática
 
 ---
 
-### 6️⃣ EES - Automação de Testes
+## 🏆 Projetos de Automação Relevantes
 
-**Desafio**
-Testes manuais consumiam tempo e atrasavam entregas de software.
+### 🛡️ Ambev – Extração VMV/SAP
 
-**Solução**
-Framework de testes automatizados com Selenium para execução contínua, integrado ao pipeline de CI/CD.
-
-**Resultado**
-✅ Testes ágeis e confiáveis
-✅ Integração ao pipeline de CI/CD
-✅ Redução de tempo de validação
-✅ Qualidade das entregas aumentada
-
-**Stack**: Selenium, .NET/C#, Test Automation, CI/CD
+- **Desafio:** extração manual e recorrente de relatórios VMV + SAP, consumindo tempo da operação.  
+- **Solução:** robô (Selenium + C#) que:
+  - Acessa e faz login automático
+  - Extrai relatórios
+  - Compara dados
+  - Gera **Excel consolidado**
+  - Envia **e-mail automático** ao responsável  
+- **Impacto:** 💡 **+21 horas/mês economizadas**  
+- **Stack:** `Selenium` · `C#` · `Excel` · `Automação Operativa`
 
 ---
 
-## 📊 Social Proof & Impacto
+### 📊 Mapfre – Indicadores (ETL + BI)
 
-### 📈 Estatísticas de Impacto
-
-| Métrica | Resultado |
-|---------|-----------|
-| **Anos de Experiência** | 5+ anos |
-| **Projetos Entregues** | 50+ |
-| **Sistemas Integrados** | 15+ |
-| **Interações IA/dia** | 1000+ |
-
----
-
-### 💬 O que Dizem sobre o Trabalho
-
-> **"Profissional extremamente competente e proativo. Sua capacidade de traduzir necessidades de negócio em soluções técnicas robustas é impressionante."**
-> — Gestor de Projetos, NTT DATA
-
-> **"Excelente mentor e multiplicador de conhecimento. Elevou significativamente a maturidade técnica da equipe em automação e IA."**
-> — Tech Lead, Equipe de Automação
-
-> **"Entrega de alta qualidade com foco em resultados. As soluções desenvolvidas geraram impacto real nos indicadores de negócio."**
-> — Product Owner, Cliente Enterprise
+- **Desafio:** extrair dados de testes do **HP ALM** e gerar relatórios de indicadores de BI.  
+- **Solução:** robô de **ETL** que:
+  - Extrai dados do banco do ALM
+  - Transforma e carrega em **PostgreSQL** com histórico
+  - Gera base pronta para relatórios de BI  
+- **Stack:** `.NET Framework 4.7.2` · `PostgreSQL 13.0` · `ETL`  
+- **Conceito:** automação orientada a **dados e indicadores**
 
 ---
 
-### 🎖️ Certificações & Badges
+### 🧾 Ambev – Acta (Verificação de Jobs)
 
-| Certificação | Instituição | Status |
-|---|---|---|
-| Licenciatura em Computação | IFTM | ✅ Concluído |
-| Especialização em IA | UNINTER | 📚 Em andamento |
-| Python & Data Science | Multiple Platforms | ✅ Certificado |
-| RPA & Automation | .NET, Selenium, Node-RED | ✅ Expert |
-
----
-
-## 🚀 TOP 11 Projetos em Desenvolvimento
-
-### 🏆 Tier 1: Impacto Imediato (Score 9/10)
-
-#### 📦 [administrator](https://github.com/msoutole/administrator)
-**AI-powered Repository Analyzer**
-
-CLI tool para análise automática de repositórios com IA, identificando padrões de qualidade, vulnerabilidades de segurança e oportunidades de melhoria.
-
-- 49 commits | TypeScript + Node.js + Python
-- CI/CD pronto | Pronto para npm package
-- 📦 Publicação em breve
+- **Desafio:** verificação manual de Jobs no sistema Acta, até 4x ao dia.  
+- **Solução:** robô que:
+  - Acessa sistema via Selenium
+  - Verifica Jobs e falhas
+  - Envia e-mail com status:
+    - Falhas encontradas detalhadas, ou  
+    - Confirmação de que tudo está OK  
+- **Stack:** `Selenium` · `C#`  
+- **Resultado:** redução de esforço operacional e aumento de confiabilidade.
 
 ---
 
-#### 💰 [beautyhub-mvp](https://github.com/msoutole/beautyhub-mvp)
-**SaaS para Gestão de Beleza**
+### Outros Casos em Destaque (Resumo)
 
-Agendamentos, gestão de equipe, serviços, estoque e relatórios para salões e estúdios de beleza.
-
-- MVP funcional e testado | React 18 + Supabase
-- **Mercado**: 1.5M salões no Brasil
-- **Preço**: R$ 49-199/mês
-- **Projeção**: R$ 590k/mês com 10k clientes
-
----
-
-### 📚 Tier 2: Excelência Técnica (Score 8/10)
-
-| Projeto | Descrição | Stack | Diferenciais |
-|---------|-----------|-------|-------------|
-| [knowledge](https://github.com/msoutole/knowledge) | 🎨 Portfolio moderno com chat IA integrado | React 18 + TypeScript + Vite | Reutilizável como template |
-| [openpanel](https://github.com/msoutole/openpanel) | 🚀 Alternativa self-hosted ao Heroku | Bun + Hono + React + Docker | IA privada integrada |
-| [neuro-finan](https://github.com/msoutole/neuro-finan) | 💳 Fintech pessoal com gamificação | React + Supabase + IA | **Mercado**: 72M usuários BR |
-| [univirtus-downloader](https://github.com/msoutole/univirtus-downloader) | 📥 Downloader educacional containerizado | Node.js + Docker + Microserviços | v2.0.0 estável |
+- **BrasilSeg – Automação de Seguros** → **-70% tempo**, **+95% precisão**, **-90% retrabalho**  
+- **Ambev – Sistema de Monitoramento** → painel em C#/.NET, monitoramento em tempo real, **-60% tempo de resposta a incidentes**  
+- **Bradesco – Gestão de Recursos** → JIRA + Power BI, visão clara de **capacidade, alocação e gargalos**  
+- **TIM – Automação SAP** → RPA com SapGUIAutomation + VBScript, **-80% tempo operacional**, eliminação de erros manuais  
+- **Blips – Automação Inteligente com IA** → **15+ sistemas integrados**, **1000+ interações/dia com IA**, RAG centralizado  
+- **EES – Automação de Testes** → framework de testes com Selenium + .NET/C#, integrado a CI/CD
 
 ---
 
-### 💎 Tier 3: Utilitários Especializados (Score 7/10)
-
-- **[univirtus-dashboard](https://github.com/msoutole/univirtus-dashboard)** - Dashboard educacional com WebSocket real-time
-- **[homelab-enterprise](https://github.com/msoutole/homelab-enterprise)** - IaC para infraestrutura (Terraform + Docker + Prometheus + Grafana)
-- **[uninter](https://github.com/msoutole/uninter)** - Agentes autônomos multi-provider com fallback automático
-- **[dev-oracle-sphere](https://github.com/msoutole/dev-oracle-sphere)** - Plataforma DevOps com IA integrada
-- **[SFP](https://github.com/msoutole/SFP)** - Sistema Integrado de Gestão Financeira Pessoal
-
----
-
-## 💻 Stack Tecnológico Completo
+## 🛠️ Habilidades Técnicas (Hard Skills)
 
 <div align="center">
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-18+-61DAFB?logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-5+-3178C6?logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-5+-646CFF?logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-06B6D4?logo=tailwindcss&logoColor=white)
-
-### 🔧 Backend
-![Node.js](https://img.shields.io/badge/Node.js-20+-339933?logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-Runtime-222222?logo=bun&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-Web%20Framework-FFEB3B?logo=hono&logoColor=black)
-
-### 🗄️ Database & Cloud
-![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E?logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-2088FF?logo=github&logoColor=white)
-
-### 🤖 AI & Automation
-![Claude AI](https://img.shields.io/badge/Claude-AI-000000?logo=openai&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-GPT-412991?logo=openai&logoColor=white)
-![Agents](https://img.shields.io/badge/Multi--Agent-Systems-FF6B6B)
+![n8n](https://img.shields.io/badge/n8n-Workflow%20Automation-F97316?style=for-the-badge&logo=n8n)
+![Node-RED](https://img.shields.io/badge/Node--RED-Orquestra%C3%A7%C3%A3o-BF0000?style=for-the-badge&logo=nodered)
+![Python](https://img.shields.io/badge/Python-Dados%20%26%20ML-3776AB?style=for-the-badge&logo=python)
+![BigQuery](https://img.shields.io/badge/BigQuery-Big%20Data-4285F4?style=for-the-badge&logo=googlebigquery)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-BD%20Relacional-4169E1?style=for-the-badge&logo=postgresql)
+![Selenium](https://img.shields.io/badge/Selenium-RPA-43B02A?style=for-the-badge&logo=selenium)
+![CSharp](https://img.shields.io/badge/.NET%20%26%20C%23-RPA%20%26%20Apps-512BD4?style=for-the-badge&logo=dotnet)
+![JavaScript](https://img.shields.io/badge/JavaScript-Automa%C3%A7%C3%A3o-F7DF1E?style=for-the-badge&logo=javascript)
+![GitHub](https://img.shields.io/badge/GitHub-Versionamento-181717?style=for-the-badge&logo=github)
 
 </div>
 
----
-
-## 🛠️ Habilidades Técnicas em Destaque
-
-### 🤖 Automação & IA (Expert)
-- **RPA**: .NET/C#, Selenium, SapGUIAutomation
-- **Orquestração**: Node-RED, n8n, APIs REST, Webhooks
-- **IA Generativa**: GPT, Claude, Gemini
-- **Frameworks**: LangChain, CrewAI
-- **Observabilidade**: Logs, monitoramento, alertas
-
-### 💻 Desenvolvimento & Dados (Avançado)
-- **Linguagens**: JavaScript, TypeScript, Python, C#
-- **Bancos**: PostgreSQL, BigQuery, SQL
-- **Frontend**: React 18, Vite, Tailwind CSS
-- **Backend**: Node.js, Hono, Bun
-- **Data**: Pandas, Matplotlib, análise exploratória
-
-### 🔌 Plataformas & Integrações
-- REST APIs, Webhooks, GitHub, Google Cloud
-- Bitrix24, Confluence, JIRA, Slack
-- ServiceNow, Power BI, SAP
+| Domínio | Plataformas / Ferramentas | Linguagens / Tecnologias |
+| :------ | :------------------------ | :------------------------ |
+| **Inteligência Artificial (IA)** | Integração com **GPT, Gemini**, **RAG** | Python, chamadas de API, cURL |
+| **Automação de Processos (RPA)** | **n8n**, **Node-RED**, Selenium, SapGUIAutomation | C#, VBScript, JavaScript |
+| **Ciência de Dados** | **BigQuery**, ferramentas de BI | Python (Pandas, Matplotlib, Seaborn) |
+| **Integrações & APIs** | Webhooks, REST APIs, Bitrix24, Confluence | Node.js, JS/TS, SQL |
+| **Dev & DevTools** | GitHub, pipelines simples de CI/CD | Boas práticas, testes, ETL |
 
 ---
 
-## 🌟 Habilidades Comportamentais (Diferenciais)
+## 🧠 Competências Comportamentais & Liderança
 
-### 🚀 Proatividade
-Antecipação de novos projetos e identificação de oportunidades de melhoria
+**Fortalezas principais:**
 
-### 🤝 Trabalho em Equipe
-Colaboração constante e gosto por ajudar a equipe em ambiente global
+- 🤝 **Trabalho em equipe & colaboração** – gosto genuíno por ajudar a equipe e atuar em ambientes globais  
+- 🚀 **Proatividade & iniciativa** – antecipo oportunidades, proponho melhorias e novas soluções  
+- ⚡ **Aprendizado rápido** – absorvo e aplico rapidamente novas ferramentas, domínios e contextos de negócio  
+- ❤️ **Relacionamento interpessoal** – construo relações de confiança com pares, líderes e clientes  
+- 📌 **Compromisso & responsabilidade** – foco em entregar, com qualidade e impacto  
+- 📚 **Mentoria & didática** – facilidade para explicar o complexo de forma acessível, formar e apoiar times
 
-### 💬 Comunicação
-Capacidade de traduzir conceitos técnicos para diferentes públicos
+**Foco atual de desenvolvimento contínuo:**
 
-### 📈 Vontade de Crescer
-Busca ativa por modernização de processos e agregação de valor
-
-### ❤️ Relacionamento
-Estabelecimento de relações de confiança e bom relacionamento interpessoal
-
-### 📚 Capacitação (Diferencial)
-Transposição didática de temas complexos, mentor e educador nato
+1. 🎯 **Acurácia em planejamento e estimativas**  
+2. 📋 **Gestão de prioridades e foco**  
+3. 🗣️ **Comunicação ainda mais objetiva + escuta ativa**  
+4. 🧩 **Pensamento analítico e conceitual em nível estratégico**
 
 ---
 
-## 📊 Estatísticas do Portfólio
+## 🤝 Vamos Conversar?
 
-```
-├── 11 Repositórios de Alta Prioridade
-├── 3 Potenciais SaaS (R$ 500k+/ano cada)
-├── 2 Templates Reutilizáveis
-├── 1 CLI Tool (npm package)
-├── 4 Infraestrutura/DevOps
-└── 1 Portfólio com Chat IA
+Estou **aberto a**:
 
-Linguagens Principais:
-  ████████████████░░ TypeScript (45%)
-  ███████░░░░░░░░░░ JavaScript (20%)
-  ████░░░░░░░░░░░░░ Python (15%)
-  █████░░░░░░░░░░░░ Terraform/Docker (15%)
-  ██░░░░░░░░░░░░░░░ Outras (5%)
+- 💼 **Posições Full-time** (Engenharia de Automação/IA/Dados, Sênior I, Pleno)  
+- 🧠 **Consultorias** em RPA, IA, dados e orquestração  
+- 🎓 **Mentorias, treinamentos e workshops** para times  
+- 🚀 **Parcerias em produtos** (SaaS, automações, devtools)
 
-Contribuições:
-  ✅ 5+ anos em Automação & IA
-  ✅ 50+ projetos entregues
-  ✅ 15+ sistemas integrados
-  ✅ 1000+ interações IA/dia
-```
-
----
-
-## 🎯 Objetivos (Próximos 3 Meses)
-
-| Métrica | Meta | Deadline |
-|---------|------|----------|
-| ⭐ Stars | 200+ | Mês 3 |
-| 🔀 Forks | 20+ | Mês 3 |
-| 🐛 Issues (usuários) | 10+ | Mês 2 |
-| 👥 Contribuidores externos | 5+ | Mês 3 |
-| 📥 NPM Downloads | 500+/mês | Mês 3 |
-| 💰 Clientes Beta | 10+ | Mês 2 |
-
----
-
-## 🌟 Diferenciais Estratégicos
-
-### 🏆 Potencial Comercial
-
-**beautyhub-mvp** (SaaS)
-- Mercado: 1.5M salões de beleza no Brasil
-- Preço: R$ 49-199/mês
-- Projeção: R$ 590k/mês com 10k clientes
-
-**openpanel** (Cloud Hosting)
-- Mercado: Alternativa a Heroku/EasyPanel
-- Preço: R$ 29-199/mês
-- Diferencial: Self-hosted + IA privada
-
-**neuro-finan** (Fintech)
-- Mercado: 72M usuários internet Brasil
-- Preço: R$ 9.90-29.90/mês (freemium)
-- Potencial: R$ 500k+/mês
-
----
-
-## 🤝 Como Colaborar
-
-Toda contribuição é bem-vinda! Se você encontrou um bug, tem uma feature sugestão ou quer colaborar:
-
-1. **Leia o** `CONTRIBUTING.md` do projeto
-2. **Abra uma issue** descrevendo o problema/sugestão
-3. **Faça um fork** e crie uma branch: `git checkout -b feature/sua-feature`
-4. **Commit** suas mudanças com mensagens claras
-5. **Push** para a branch e **abra um Pull Request**
-
----
-
-## 📞 Entre em Contato
+**Contato direto:**
 
 <div align="center">
 
-### Vamos colaborar? Construir algo incrível juntos?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/matheussouto)
+[![Portfolio](https://img.shields.io/badge/Portf%C3%B3lio-knowledge-6366F1?style=for-the-badge&logo=react)](https://msoutole.github.io/knowledge)
+[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail)](mailto:msoutole@hotmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/5534997699398)
 
-**Email**
-[msoutole@hotmail.com](mailto:msoutole@hotmail.com)
+**Feito com ❤️ por [Matheus Souto Leal](https://github.com/msoutole)**  
 
-**Redes Sociais**
-[LinkedIn](https://linkedin.com/in/matheussouto) • [GitHub](https://github.com/msoutole) • [WhatsApp](https://wa.me/5534997699398)
-
-**Portfolio & Mais**
-[Knowledge Portfolio](https://msoutole.github.io/knowledge)
-
-**Localização**
-📍 Uberlândia, MG | Brasil
-
-### ✅ Disponível para:
-- 💼 Projetos freelance e consultorias
-- 🔨 Posições full-time
-- 🎓 Mentorias e capacitações
-- 🤝 Parcerias estratégicas
-
-</div>
-
----
-
-## 📜 Licenças
-
-Meus projetos são distribuídos sob diversas licenças:
-- 🆓 **MIT** - Projetos open-source principais
-- 🔒 **Proprietário** - Alguns projetos SaaS
-- 📖 **CC-BY-4.0** - Documentação e templates
-
-Veja cada repositório para detalhes específicos.
-
----
-
-<div align="center">
-
-**Feito com ❤️ por [Matheus Souto Leal](https://github.com/msoutole)**
-
-*Transformando desafios em soluções inteligentes*
-
-![Profile Views](https://komarev.com/ghpvc/?username=msoutole&style=for-the-badge&color=0066FF)
+*Transformando desafios em soluções inteligentes, humanas e escaláveis.*
 
 </div>
