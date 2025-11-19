@@ -21,8 +21,22 @@
 - 🌍 **Atuação:** projetos com clientes na Europa e América Latina  
 - 🎓 **Base forte em educação:** professor de Computação, com experiência em mentoria, treinamento e documentação viva  
 
----
+| Área | O que eu entrego |
+|------|-------------------|
+| 🚀 **Automação Inteligente & Hiperautomação** | RPA + n8n + Node-RED + IA (GPT/Gemini/RAG) para **reduzir de 60–90% o esforço manual**, diminuir erros e aumentar confiabilidade operacional. |
+| 🧠 **IA & Dados aplicados ao negócio** | Python, BigQuery, PostgreSQL e BI para **produtos analíticos**, dashboards e decisões orientadas a dados. |
+| 📚 **Educação, Mentoria & Liderança Técnica** | Professor de Computação com experiência em **formar times**, preparar materiais, documentar e traduzir o complexo para diferentes públicos. |
 
+🎯 O que estou buscando agora
+| Tipo | Oportunidades |
+|------|---------------|
+| 👔 **Full-time (Pleno/Sênior/Consultor)** | Automação Inteligente (RPA, n8n, Node-RED), IA aplicada a processos, Engenharia/Plataformas de Integração. |
+| 🧠 **Consultoria / Freela** | Descoberta e priorização de processos, MVPs de **IA + dados + automação**, modernização de esteiras existentes. |
+| 🚀 **Parcerias em Produtos (SaaS / DevTools)** | Soluções de produtividade, gestão operacional, ferramentas para devs e times de engenharia (observabilidade, automação, IA). |
+</div>
+Se você é **recrutador, líder técnico ou founder** e precisa de alguém para **tirar do papel automações inteligentes, plataformas de IA ou integrações complexas**, meu contato está na seção fina
+
+---
 ## 📌 Navegação Rápida
 
 | Seção | Descrição |
@@ -39,47 +53,6 @@
 | [📞 Contato](#-vamos-conversar) | CTAs diretos para falar comigo |
 
 ---
-
-## 🌎 Short Summary (EN)
-
-**AI & Intelligent Automation Developer · Data Science Postgraduate · Global Experience (LATAM & Europe)**  
-
-I design and implement **high-impact automations and AI-powered solutions** (RPA, n8n, Node-RED, Python, BigQuery, GPT/RAG) that reduce manual work by up to **80–90%**, increase data accuracy and unlock better business decisions.
-
-I combine **technical skills (Automation, Data, AI)** with **strong teaching and mentoring skills**, adapting communication to **executives, engineers and juniors**, enabling teams to adopt automation and AI with clarity and confidence.
-
----
-
-## 🧭 O que eu faço (em 10 segundos)
-
-<div align="center">
-
-| Área | O que eu entrego |
-|------|-------------------|
-| 🚀 **Automação Inteligente & Hiperautomação** | RPA + n8n + Node-RED + IA (GPT/Gemini/RAG) para **reduzir de 60–90% o esforço manual**, diminuir erros e aumentar confiabilidade operacional. |
-| 🧠 **IA & Dados aplicados ao negócio** | Python, BigQuery, PostgreSQL e BI para **produtos analíticos**, dashboards e decisões orientadas a dados. |
-| 📚 **Educação, Mentoria & Liderança Técnica** | Professor de Computação com experiência em **formar times**, preparar materiais, documentar e traduzir o complexo para diferentes públicos. |
-
-</div>
-
----
-
-## 🎯 O que estou buscando agora
-
-<div align="center">
-
-| Tipo | Oportunidades |
-|------|---------------|
-| 👔 **Full-time (Pleno/Sênior/Consultor)** | Automação Inteligente (RPA, n8n, Node-RED), IA aplicada a processos, Engenharia/Plataformas de Integração. |
-| 🧠 **Consultoria / Freela** | Descoberta e priorização de processos, MVPs de **IA + dados + automação**, modernização de esteiras existentes. |
-| 🚀 **Parcerias em Produtos (SaaS / DevTools)** | Soluções de produtividade, gestão operacional, ferramentas para devs e times de engenharia (observabilidade, automação, IA). |
-
-</div>
-
-Se você é **recrutador, líder técnico ou founder** e precisa de alguém para **tirar do papel automações inteligentes, plataformas de IA ou integrações complexas**, meu contato está na seção final.
-
----
-
 ## 👤 Quem Sou
 
 Sou um profissional de tecnologia com **5+ anos de experiência** focado em **Automação Inteligente, IA e Inovação**, atuando na intersecção entre:
