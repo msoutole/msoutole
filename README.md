@@ -27,7 +27,7 @@
 
 ## 🧾 Resumo Executivo
 
-> Ajudo empresas a **reduzir 60–90% do esforço manual** e **aumentar a qualidade de dados e decisões** através de **Automação Inteligente, IA aplicada e Dados**, atuando desde a descoberta do processo até a operação em produção – sempre traduzindo o técnico para quem decide (gestores) e para quem executa (times).
+> Ajudo empresas a **reduzir 60–90% do esforço manual** e **aumentar a qualidade de dados e decisões** através de **Automação Inteligente, IA aplicada e Dados**, atuando desde a descoberta do problema até a operação em produção.
 
 - 🔧 **Stack principal:** RPA, n8n, Node-RED, Python, BigQuery, PostgreSQL, Selenium, GPT/Gemini/RAG  
 - 🌍 **Atuação:** projetos com clientes na Europa e América Latina  
@@ -47,7 +47,7 @@
 | [🏆 Projetos Relevantes](#-projetos-de-automação-relevantes) | Casos com métricas de impacto em cards e tabela |
 | [🛠️ Habilidades Técnicas](#%EF%B8%8F-habilidades-técnicas-hard-skills) | Stack, domínios e proficiência |
 | [🧠 Comportamentais & Liderança](#-competências-comportamentais--liderança) | Soft skills e foco de desenvolvimento |
-| [🎓 Formação](#-formação-acadêmica) | Graduação e pós-graduação |
+| [🎓 Formação](#-formação-acadêmica) | Graduação e pós-graduação (ambas detalhadas) |
 | [📞 Contato](#-vamos-conversar) | CTAs diretos para falar comigo |
 
 ---
@@ -56,9 +56,9 @@
 
 **AI & Intelligent Automation Developer · Data Science Postgraduate · Global Experience (LATAM & Europe)**  
 
-I design and implement **high-impact automations and AI-powered solutions** (RPA, n8n, Node-RED, Python, BigQuery, GPT/RAG) that reduce manual work by up to **80–90%**, increase data accuracy and unlock **data-driven decision making**.  
+I design and implement **high-impact automations and AI-powered solutions** (RPA, n8n, Node-RED, Python, BigQuery, GPT/RAG) that reduce manual work by up to **80–90%**, increase data accuracy and unlock better business decisions.
 
-I combine **technical skills (Automation, Data, AI)** with **strong teaching and mentoring skills**, adapting communication to **executives, engineers and juniors**, enabling teams to adopt automation and AI at scale.
+I combine **technical skills (Automation, Data, AI)** with **strong teaching and mentoring skills**, adapting communication to **executives, engineers and juniors**, enabling teams to adopt automation and AI with clarity and confidence.
 
 ---
 
@@ -88,7 +88,7 @@ I combine **technical skills (Automation, Data, AI)** with **strong teaching and
 
 </div>
 
-Se você é **recrutador, líder técnico ou founder** e precisa de alguém para **tirar do papel automações inteligentes, plataformas de IA ou integrações complexas**, meu contato está na seção de [📞 Contato](#-vamos-conversar).
+Se você é **recrutador, líder técnico ou founder** e precisa de alguém para **tirar do papel automações inteligentes, plataformas de IA ou integrações complexas**, meu contato está na seção final.
 
 ---
 
@@ -103,7 +103,7 @@ Sou um profissional de tecnologia com **5+ anos de experiência** focado em **Au
 
 > **Missão:** conectar desafios de negócio a soluções tecnológicas com **impacto mensurável**, mantendo sempre o foco em **desenvolvimento humano, acessibilidade de informação e geração de valor real**.
 
-Minha jornada é fundamentada na **Licenciatura em Computação (IFTM)**, que moldou a visão de tecnologia como **ferramenta de capacitação e alfabetização digital**.
+Minha jornada é fundamentada na **Licenciatura em Computação (IFTM)**, que moldou a visão de tecnologia como **ferramenta de capacitação e alfabetização digital**, e na **Pós-graduação em Transformação Digital e IA**, que consolida a ponte entre **tecnologia, dados e estratégia de negócio**.
 
 ### 🧩 Três Papéis Complementares
 
@@ -129,7 +129,7 @@ Minha jornada é fundamentada na **Licenciatura em Computação (IFTM)**, que mo
 | 🤖 **IA + Automação** | Experiência prática combinando **RPA, n8n/Node-RED, BigQuery, bancos relacionais e GPT/Gemini/RAG** em ambientes reais. |
 | 📈 **Métricas & Resultado** | Foco em **indicadores concretos**: horas economizadas, % de redução de erros, aumento de precisão e throughput. |
 | 🧑‍🏫 **Liderança & Educação** | Professor de Computação, acostumado a **mentorar, documentar e formar times** em contextos globais (Europa e LATAM). |
-| 🌐 **Tradução entre públicos** | Capacidade de **adaptar linguagem e profundidade técnica** para devs, especialistas, gestores, iniciantes e pessoas em transição para tecnologia – garantindo **acessibilidade da informação, alinhamento e decisões mais conscientes**. |
+| 🌐 **Tradução entre públicos** | Capacidade de **adaptar linguagem e profundidade técnica** para devs, especialistas, gestores, iniciantes e pessoas em transição para tecnologia – garantindo alinhamento e adoção. |
 
 </div>
 
@@ -159,8 +159,6 @@ Minha jornada é fundamentada na **Licenciatura em Computação (IFTM)**, que mo
   - ✅ **Redução significativa de esforço de manutenção**, com automações mais fáceis de entender, auditar e evoluir  
 
 </details>
-
----
 
 <details>
 <summary><strong>🟦 Analista Pleno em Desenvolvimento de Software · Inovação e Automação — NTT DATA</strong></summary>
@@ -200,8 +198,6 @@ Atuação na equipe de **Inovação e Automação**, desenvolvendo soluções de
   - Integração com JIRA, Power BI e outros sistemas de gestão
 
 </details>
-
----
 
 <details>
 <summary><strong>🟩 Trajetória Anterior — Suporte, Processos e Operação</strong></summary>
@@ -246,20 +242,20 @@ Para facilitar a leitura, separei em **cards resumidos** e uma **tabela comparat
 
 ### 📊 Visão Detalhada em Tabela
 
-<details open>
+<details>
 <summary><strong>Ver tabela completa de projetos</strong></summary>
 
 | Projeto | Desafio | Solução | Stack / Conceito | Impacto / Resultado |
 |--------|---------|---------|------------------|----------------------|
-| **Ambev – Extração VMV/SAP** | Extração manual e recorrente de relatórios VMV + SAP, consumindo tempo e sujeita a erros. | Robô que faz login automático, extrai relatórios, compara dados, gera **Excel consolidado** e envia **e-mail automático**. | `Selenium` · `C#` · `Excel` · Automação Operativa | 💡 **+21 horas/mês economizadas**. |
-| **Mapfre – Indicadores (ETL + BI)** | Necessidade de gerar indicadores de testes com histórico a partir do **HP ALM**. | Robô de **ETL** que extrai do ALM, transforma e carrega em **PostgreSQL**, criando base pronta para BI. | `.NET Framework 4.7.2` · `PostgreSQL 13.0` · `ETL` | Visão histórica consolidada, **orientada a dados e indicadores**. |
-| **Ambev – Acta (Verificação de Jobs)** | Verificação manual de Jobs 4x/dia, com risco de falhas passarem despercebidas. | Robô que acessa o sistema, verifica Jobs/falhas e envia e-mail com status detalhado ou "tudo OK". | `Selenium` · `C#` | Redução de esforço manual e **maior confiabilidade** no monitoramento. |
+| **Ambev – Extração VMV/SAP** | Extração manual e recorrente de relatórios VMV + SAP, consumindo tempo e sujeita a erros. | Robô que faz login automático, extrai relatórios, compara dados, gera consolidações e envia e-mails automaticamente. | RPA · Integrações · ETL | 💡 **+21 horas/mês economizadas** · Maior confiabilidade dos relatórios. |
+| **Mapfre – Indicadores (ETL + BI)** | Necessidade de gerar indicadores de testes com histórico a partir do **HP ALM**. | Robô de **ETL** que extrai do ALM, transforma e carrega em **PostgreSQL** para consumo em BI. | RPA · ETL · PostgreSQL | Base histórica unificada, permitindo **visão clara de qualidade de testes**. |
+| **Ambev – Acta (Verificação de Jobs)** | Verificação manual de Jobs 4x/dia, com risco de falhas passarem despercebidas. | Robô que acessa o sistema, verifica Jobs/falhas e envia e-mail com status consolidado. | RPA · Monitoramento | ⏱ Redução drástica do esforço manual · Menos falhas não detectadas. |
 | **BrasilSeg – Automação de Seguros** | Processos de seguros manuais, lentos e com retrabalho. | Automação de processos-chave de seguros. | RPA · Integrações · ETL | ⏱ **-70% tempo** · 🎯 **+95% precisão** · 🔁 **-90% retrabalho**. |
-| **Ambev – Sistema de Monitoramento** | Monitoramento pouco responsivo de incidentes. | Painel em C#/.NET com monitoramento em tempo real. | `.NET/C#` · Monitoramento | ⏱ **-60% tempo de resposta a incidentes**. |
-| **Bradesco – Gestão de Recursos** | Falta de visibilidade de capacidade e alocação. | Integração **JIRA + Power BI** para visão de capacidade, alocação e gargalos. | JIRA · Power BI | Melhora na **gestão de recursos e priorização**. |
-| **TIM – Automação SAP** | Tarefas SAP manuais, com alto esforço e risco de erro. | RPA com **SapGUIAutomation + VBScript**. | `SapGUIAutomation` · `VBScript` · RPA | ⏱ **-80% tempo operacional**, eliminação de erros manuais. |
-| **Blips – Automação Inteligente com IA** | Necessidade de integrar múltiplos sistemas e centralizar inteligência. | Ecossistema com **15+ sistemas integrados** e **RAG centralizado**, permitindo **1000+ interações/dia com IA**. | Integrações · IA Generativa · RAG | Escala de atendimento e **automação inteligente com IA**. |
-| **EES – Automação de Testes** | Execução manual de testes, sem padronização e sem CI/CD. | Framework de testes com **Selenium + .NET/C#**, integrado a pipeline. | `Selenium` · `.NET/C#` · CI/CD | Aumento de **qualidade, repetibilidade e velocidade** de testes. |
+| **Ambev – Sistema de Monitoramento** | Monitoramento pouco responsivo de incidentes. | Painel em C#/.NET com monitoramento em tempo real. | `.NET/C#` · Monitoramento | ⏱ **-60% tempo de resposta** a incidentes críticos. |
+| **Bradesco – Gestão de Recursos** | Falta de visibilidade de capacidade e alocação. | Integração **JIRA + Power BI** para visão de capacidade, alocação e gargalos. | JIRA · Power BI | Melhora da **alocação de equipes** e transparência da operação. |
+| **TIM – Automação SAP** | Tarefas SAP manuais, com alto esforço e risco de erro. | RPA com **SapGUIAutomation + VBScript**. | `SapGUIAutomation` · `VBScript` · RPA | ⏱ **-80% tempo operacional** · Redução de erros manuais. |
+| **Blips – Automação Inteligente com IA** | Necessidade de integrar múltiplos sistemas e centralizar inteligência. | Ecossistema com **15+ sistemas integrados** e **RAG centralizado**, permitindo visão única de dados e processos. | n8n · Node-RED · BigQuery · GPT/Gemini/RAG | **1000+ interações/dia com IA** · Ganho expressivo de produtividade e qualidade de atendimento. |
+| **EES – Automação de Testes** | Execução manual de testes, sem padronização e sem CI/CD. | Framework de testes com **Selenium + .NET/C#**, integrado a pipeline. | `Selenium` · `.NET/C#` · CI/CD | Aumento da cobertura e confiabilidade dos testes regressivos. |
 
 👉 Mais detalhes e outros casos no meu [portfólio](https://msoutole.github.io/knowledge).
 
@@ -327,9 +323,10 @@ Para facilitar a leitura, separei em **cards resumidos** e uma **tabela comparat
 ### 🎓 Pós-Graduação – Transformação Digital e Inteligência Artificial  
 **UNINTER Centro Universitário Internacional** · *Abr/2025 – Presente*  
 
-### 🧾 Compilado Geral da Pós
+<details>
+<summary><strong>Ver detalhes da pós-graduação</strong></summary>
 
-Pós estruturada em três grandes eixos técnicos — **Sistemas Inteligentes**, **Ciência de Dados** e **Mineração de Dados** — apoiados por uma base forte de **Engenharia de Software, Arquitetura, Inovação e Gestão de Negócios**.
+Pós estruturada em três grandes eixos técnicos — **Sistemas Inteligentes**, **Ciência de Dados** e **Mineração de Dados** — apoiados por uma base forte de **Engenharia de Software, Arquitetura de Sistemas, Inovação e Negócios**.
 
 Na prática, isso reforça minha atuação em:
 
@@ -338,8 +335,6 @@ Na prática, isso reforça minha atuação em:
 - Entender e usar **Big Data, Cloud e Integração de Sistemas Legados** em arquiteturas modernas  
 - Conectar **Tecnologia + Estratégia + Negócio** através de disciplinas de gestão, inovação e modelos de negócios  
 - Dominar conceitos modernos como **IoT, 5G, Segurança, Computação em Nuvem** e **Gestão de Projetos**
-
-Abaixo, as trilhas detalhadas com as disciplinas:
 
 ---
 
@@ -364,8 +359,6 @@ Trilha focada em **IA aplicada**, cloud e fundamentos para construção de siste
 
 </details>
 
----
-
 <details>
 <summary><strong>📊 Tecnologia de Ciência de Dados</strong></summary>
 
@@ -387,8 +380,6 @@ Foco em **modelagem de IA**, **Redes Neurais** e visão de negócio aplicada à 
 
 </details>
 
----
-
 <details>
 <summary><strong>⛏️ Tecnologia de Mineração de Dados</strong></summary>
 
@@ -408,8 +399,6 @@ Trilha voltada para **descoberta de padrões**, insights e construção de model
 - **Eletiva IV**  
 
 </details>
-
----
 
 <details>
 <summary><strong>🧩 Eixo de Tecnologia e Engenharia</strong></summary>
@@ -452,8 +441,6 @@ Base técnica que sustenta as soluções de automação, IA e dados.
 
 </details>
 
----
-
 <details>
 <summary><strong>🎯 Gestão, Inovação e Negócios</strong></summary>
 
@@ -491,15 +478,162 @@ Trilha orientada a **gestão de projetos**, **pessoas**, **inovação** e visão
 
 </details>
 
+</details>
+
 ---
 
 ### 🧑‍🏫 Licenciatura em Computação  
 **Instituto Federal do Triângulo Mineiro (IFTM) – Campus Uberlândia Centro** · *Ago/2016 – Ago/2023*
 
-- Fundamentos sólidos de **Ciência da Computação** (Algoritmos, IA, Engenharia de Software)  
-- Formação pedagógica voltada para:
-  - 🧩 **Tecnologia como ferramenta de capacitação**  
-  - 📚 **Alfabetização digital e ensino de base**  
+<details>
+<summary><strong>Ver detalhes da licenciatura</strong></summary>
+
+Curso estruturado para formar **professores de Computação** com visão tecnológica para atuar na **educação básica**, no **ensino profissional técnico de nível médio** e em **ambientes não formais**.  
+
+A matriz curricular integra **formação específica em Computação**, **fundamentos pedagógicos**, **prática docente** e **estágio supervisionado**, sempre com foco em **transposição didática**, **ética**, **interdisciplinaridade** e **uso de tecnologia como ferramenta pedagógica**.
+
+Na prática, isso reforça minha atuação em:
+
+- Ensinar **lógica, programação e fundamentos de computação** para diferentes níveis
+- Planejar, implementar e avaliar **projetos pedagógicos com tecnologia**
+- Traduzir conteúdos complexos de computação em **experiências de aprendizagem acessíveis**
+- Atuar tanto em **sala de aula** quanto em **projetos de inovação educacional** e **formação de professores**
+
+---
+
+<details>
+<summary><strong>🧠 Núcleo de Formação Específica e Tecnológica em Computação</strong></summary>
+
+Focado em **fundamentos de Computação, engenharia de software e tecnologias** que embasam tanto o desenvolvimento quanto o ensino na área.
+
+**Destaques de disciplinas:**
+
+- **Fundamentos da Programação e Lógica**  
+  - Lógica de Programação  
+  - Algoritmos e Programação (modularização, recursividade, strings, complexidade, busca e ordenação)
+
+- **Estruturas de Dados e Teoria da Computação**  
+  - Matemática Discreta (estruturas discretas, raciocínio lógico e prova)  
+  - Estruturas de Dados (listas, filas, pilhas, árvores binárias/AVL, grafos)  
+  - Linguagens Formais e Autômatos  
+  - Teoria da Computação (máquina de Turing, computabilidade, decidibilidade, complexidade)
+
+- **Arquitetura, Sistemas e Redes**  
+  - Introdução à Informática (sistemas digitais, lógica booleana, blocos básicos)  
+  - Arquitetura e Organização de Computadores (RISC/CISC, pipeline, arquiteturas avançadas)  
+  - Sistemas Operacionais (concorrência, gerenciamento de memória, armazenamento)  
+  - Redes de Computadores I e II (modelo OSI/TCP-IP, endereçamento IP, VLANs, roteamento, DHCP, NAT, serviços IP)
+
+- **Banco de Dados e Engenharia de Software**  
+  - Banco de Dados I (modelagem ER, modelo relacional, normalização, SQL básico)  
+  - Banco de Dados II (SQL avançado, otimização, concorrência, fundamentos de NoSQL)  
+  - Engenharia de Software (processos tradicionais e ágeis, requisitos, UML)
+
+- **Desenvolvimento de Sistemas e Ambientes Educacionais**  
+  - Programação Orientada a Objetos (classes, objetos, encapsulamento, herança, abstração, polimorfismo)  
+  - Engenharia de Software Aplicada a Ambientes Educacionais (sistemas com formulários, relatórios, foco em contexto educacional)
+
+- **Áreas Aplicadas de Computação**  
+  - Sistemas para Internet (Web 1.0/2.0/3.0, modelo cliente-servidor)  
+  - Computação Gráfica (visualização 2D/3D, RV e RA)  
+  - Interação Humano-Computador (usabilidade, ergonomia, acessibilidade)  
+  - Inteligência Artificial e Computacional (agentes, redes neurais, aprendizado de máquina, computação evolutiva)
+
+</details>
+
+<details>
+<summary><strong>📚 Núcleo de Formação Pedagógica e Prática Docente</strong></summary>
+
+Garante a formação como **educador**, capaz de planejar, conduzir e avaliar processos de ensino-aprendizagem em Computação.
+
+**Destaques de disciplinas:**
+
+- **Fundamentos e Teorias Educacionais**  
+  - História da Educação Brasileira  
+  - Fundamentos Filosóficos e Sociológicos da Educação  
+  - Políticas Educacionais e legislação  
+  - Teorias da Aprendizagem I e II (Piaget, Vygotsky, Wallon, Gardner, concepções inatistas, ambientalistas, interacionistas)  
+  - Profissão e Formação Docente (constituição histórica do trabalho docente, papel do Estado, saberes da docência)
+
+- **Metodologias e Didática**  
+  - Didática (planejamento da prática pedagógica, metodologias de ensino)  
+  - Metodologia do Ensino da Computação  
+  - Prática de Ensino de Computação (uso de tecnologias digitais, transposição didática, prática da docência)
+
+- **Inclusão e Diversidade**  
+  - Direitos Humanos e Diversidade (raça, gênero, sexualidade)  
+  - Educação Inclusiva (bases conceituais, legislação, adequação curricular)  
+  - Libras (história da educação de surdos, Língua Brasileira de Sinais)
+
+- **Gestão e Currículo**  
+  - Escola e Currículo (concepções, organização, planejamento, avaliação curricular)  
+  - Gestão Escolar (PPP, gestão democrática, planejamento participativo)
+
+- **Tecnologias Educacionais e Avaliação**  
+  - Tecnologia Educacional (informática educativa, mídias digitais, inclusão digital)  
+  - Análise de Dados Educacionais (estatística básica aplicada à educação)  
+  - Avaliação das Aprendizagens (pressupostos teóricos, modalidades, instrumentos)  
+  - Ambientes e Comunidades Virtuais de Aprendizagem (EAD, tutoria, avaliação online)
+
+</details>
+
+<details>
+<summary><strong>🔬 Metodologia, Pesquisa e Produção Didática</strong></summary>
+
+Base para atuar com **pesquisa aplicada em educação e computação** e produção de materiais instrucionais.
+
+**Destaques de disciplinas:**
+
+- **Metodologia e Pesquisa**  
+  - Metodologia Científica  
+  - Produção de Textos  
+  - Projeto de Licenciatura (planejamento do TCC)  
+  - Trabalho de Conclusão de Curso I e II (pesquisa teórica/empírica ou desenvolvimento de material didático/tecnologia educacional)
+
+- **Produção Didática e Tecnologias Aplicadas**  
+  - Produção de Material Instrucional (objetos digitais de aprendizagem, EAD, integração de mídias)  
+  - Robótica Educacional (projetos com raciocínio lógico, programação e construção de maquetes/protótipos)
+
+- **Linguagem Estrangeira**  
+  - Inglês para Fins Acadêmicos (leitura de textos técnicos em tecnologia e educação)
+
+</details>
+
+<details>
+<summary><strong>🧪 Estágio Curricular Supervisionado</strong></summary>
+
+Total de **400 horas**, em quatro etapas progressivas, conectando teoria, prática e reflexão crítica.
+
+- **Estágio Curricular I e II**  
+  - Observação do cotidiano escolar e dos espaços de ensino de informática  
+  - Diagnóstico de contextos, perfis de alunos e condições de infraestrutura  
+  - Elaboração de projetos de estágio, articulando teoria e prática
+
+- **Estágio Curricular III e IV**  
+  - Regência de aulas e/ou atuação em concepção, planejamento e gestão pedagógica em Computação  
+  - Desenvolvimento de práticas inter, multi e transdisciplinares  
+  - Reflexão crítica e sistematização das experiências  
+  - Atuação em escolas de educação básica, ensino técnico/tecnológico e espaços não formais (ONGs, projetos sociais, empresas)
+
+</details>
+
+<details>
+<summary><strong>📌 Disciplinas Optativas (Tópicos de Aprofundamento)</strong></summary>
+
+Optativas voltadas a **aprofundar** e **atualizar** conhecimentos em Computação e Educação:
+
+1. **Avaliação e Seleção de Recursos Computacionais** – levantamento, projeto de infraestrutura e orçamento de TI para escolas  
+2. **Sistemas Distribuídos** – fundamentos de computação distribuída, tolerância a falhas, transações, programação para Internet e cloud  
+3. **Fundamentos de Web Design** – HTML, CSS, responsividade, padrões web, introdução a JavaScript  
+4. **Implementação e Teste de Sistemas** – desenvolvimento OO com acesso a BD (CRUD, login, relatórios) e verificação/validação de software  
+5. **Projeto de Algoritmos** – técnicas avançadas (guloso, divisão e conquista, programação dinâmica)  
+6. **Aprendizagem Colaborativa Assistida por Computador** – desenho e avaliação de ambientes de aprendizagem colaborativa online  
+7. **Aplicações para Dispositivos Móveis na Educação** – desenvolvimento de apps educacionais multiplataforma  
+8. **Tópicos Especiais em Educação e Computação** – temas variáveis conforme tendências da área e interesse dos estudantes  
+
+</details>
+
+</details>
 
 ---
 
