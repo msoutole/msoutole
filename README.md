@@ -9,13 +9,12 @@
 📍 **Uberlândia – MG · Remoto / Híbrido · Disponível para Brasil, LATAM e Europa**
 
 **Desenvolvedor de Automação Inteligente e IA · Pós-graduação em Ciência de Dados · Professor de Computação**  
-**Experiência global em Inovação e Hiperautomação (n8n, Python, BigQuery, RPA, GPT/RAG)**
+**Experiência global em Inovação e Hiperautomação**
 </div>
 
 ---
 
-## 🧾 Resumo Executivo
-
+## 🧾 Resumo 
 > Ajudo empresas a **reduzir 60–90% do esforço manual** e **aumentar a qualidade de dados e decisões** através de **Automação Inteligente, IA aplicada e Dados**, atuando desde a descoberta do problema até a operação em produção.
 
 - 🔧 **Stack principal:** RPA, n8n, Node-RED, Python, BigQuery, PostgreSQL, Selenium, GPT/Gemini/RAG  
