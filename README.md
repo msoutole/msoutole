@@ -13,7 +13,6 @@
 </div>
 
 ---
-
 ## 🧾 Resumo 
 > Ajudo empresas a **reduzir 60–90% do esforço manual** e **aumentar a qualidade de dados e decisões** através de **Automação Inteligente, IA aplicada e Dados**, atuando desde a descoberta do problema até a operação em produção.
 
@@ -27,16 +26,15 @@
 | 🧠 **IA & Dados aplicados ao negócio** | Python, BigQuery, PostgreSQL e BI para **produtos analíticos**, dashboards e decisões orientadas a dados. |
 | 📚 **Educação, Mentoria & Liderança Técnica** | Professor de Computação com experiência em **formar times**, preparar materiais, documentar e traduzir o complexo para diferentes públicos. |
 
-🎯 O que estou buscando agora
+🎯 **O que estou buscando agora**
 | Tipo | Oportunidades |
 |------|---------------|
 | 👔 **Full-time (Pleno/Sênior/Consultor)** | Automação Inteligente (RPA, n8n, Node-RED), IA aplicada a processos, Engenharia/Plataformas de Integração. |
 | 🧠 **Consultoria / Freela** | Descoberta e priorização de processos, MVPs de **IA + dados + automação**, modernização de esteiras existentes. |
 | 🚀 **Parcerias em Produtos (SaaS / DevTools)** | Soluções de produtividade, gestão operacional, ferramentas para devs e times de engenharia (observabilidade, automação, IA). |
-</div>
-Se você é **recrutador, líder técnico ou founder** e precisa de alguém para **tirar do papel automações inteligentes, plataformas de IA ou integrações complexas**, meu contato está na seção fina
 
----
+Se você é **recrutador, líder técnico ou founder** e precisa de alguém para **tirar do papel automações inteligentes, plataformas de IA ou integrações complexas**, meu contato está no final da pagina.
+
 ## 📌 Navegação Rápida
 
 | Seção | Descrição |
