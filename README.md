@@ -51,7 +51,7 @@ Se você é **recrutador, líder técnico ou founder** e precisa de alguém para
 | [📞 Contato](#-vamos-conversar) | CTAs diretos para falar comigo |
 
 ---
-## 👤 Quem Sou
+## 👦 Quem Sou
 
 Sou um profissional de tecnologia com **5+ anos de experiência** focado em **Automação Inteligente, IA e Inovação**, atuando na intersecção entre:
 
